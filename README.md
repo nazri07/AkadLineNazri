@@ -1,3 +1,4 @@
 # AkadLineNazri
 # Line Protocol V2
-  Ongoing :)
+  ✰ Ongoing :)
+  ✰ Line 10.6.5 ANDROID
