@@ -3,4 +3,4 @@
   ✰ Ongoing :)\
   ✰ Line 10.6.5 ANDROID
 # Special Thanks
-  @RynKings
+  - Ryns / [@RynKings](https://github.com/RynKings)
